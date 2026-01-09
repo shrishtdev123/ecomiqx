@@ -115,7 +115,7 @@ EcomiqX is not just a platform but a vision for the future of digital marketplac
 Developed by:
 
 - **Brijesh Nishad**
-- **Shrisht Dev**, HCL Tech :contentReference[oaicite:11]{index=11}
+- **Shrisht Dev**
 
 ---
 
