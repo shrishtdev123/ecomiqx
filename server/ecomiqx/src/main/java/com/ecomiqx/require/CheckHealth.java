@@ -13,6 +13,6 @@ public class CheckHealth {
         @GetMapping
        public ResponseEntity<String> getMessage()
         {
-            return ResponseEntity.status(HttpStatus.OK).body("first api is working fine");
+            return ResponseEntity.status(HttpStatus.OK).body("OK");
        }
 }
