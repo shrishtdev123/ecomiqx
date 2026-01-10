@@ -14,5 +14,5 @@ public class CheckHealth {
        public ResponseEntity<String> getMessage()
         {
             return ResponseEntity.status(HttpStatus.OK).body("OK");
-       }
+        }
 }
